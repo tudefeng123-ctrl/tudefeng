@@ -1,0 +1,8 @@
+{
+  "refresh_seconds": 60,
+  "watchlist": {"us": ["ALAB", "LITE", "MRVL", "SPY", "QQQ"], "crypto": ["BTC-USD", "ETH-USD"], "cn": ["600519.SH", "300750.SZ"]},
+  "news_feeds": [
+    {"market": "global", "name": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
+    {"market": "crypto", "name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"}
+  ]
+}
