@@ -22,7 +22,7 @@ python app.py
 
 ## GitHub
 
-已通过 Codex GitHub 连接验证账号 `tudefeng123-ctrl`。当前没有可访问仓库，尚未发布远程。建议在 GitHub 创建私有仓库 `ai-investment-intelligence` 并授权连接访问，再推送这个独立目录。不要上传 `.env` 或旧系统账户数据。
+源码已发布到用户授权的公开仓库 https://github.com/tudefeng123-ctrl/tudefeng 。这不等于网页服务已部署，启动方式仍是本地运行 `python app.py`。不要上传 `.env` 或旧系统账户数据。
 
 ## 官方接口文档
 
